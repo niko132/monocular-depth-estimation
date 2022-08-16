@@ -1,0 +1,5 @@
+matplotlib==3.5.2
+numpy==1.21.6
+open3d==0.15.1
+opencv_python==4.6.0.66
+torch==1.11.0
